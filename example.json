@@ -1,0 +1,12 @@
+{"report":
+  {"state":"successful","tests":
+    [
+      {"name":"Pages should be fast enough","state":"successful"},
+      {"name":"Pages should not have a high IO wait time","state":"successful"},
+      {"name":"Pages should not fetch lots of data over the network","state":"successful"},
+      {"name":"Pages should not consume too much memory","state":"successful"},
+      {"name":"Pages should not do too many SQL queries","state":"successful"},
+      {"name":"Pages should be light","state":"successful"}
+    ]
+  }
+}
